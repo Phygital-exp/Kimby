@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const AUTH_HEADERS = {
-    Authorization: "Token 4e15396f99ae10dd5c195d81fb6a3722c0a44a10",
+    Authorization: "Token 9b7661d9292aab2c339b95bf25106379 1c2a62ff",
     "Content-Type": "application/json",
 };
 
